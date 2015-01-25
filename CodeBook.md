@@ -3,7 +3,7 @@
 
 
 ###Variable Name               Variable Usage                   
-currentDirectory   :   	Stores the current Data path
+currentDirectory   :   	Stores the current Data path 
 TrainDataDirectory : 	  Stores the path for train data
 TestDataDirectory  : 	  Stores the path for test data
 feature_text_file  :    Stores the path for features.txt file
